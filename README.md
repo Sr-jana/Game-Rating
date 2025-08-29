@@ -1,2 +1,2 @@
 # Game-Rating
-The aim of this project is to develop a machine learning model to predict game ratings and provide actionable insights for improving game development, acquisition, and promotion strategies for a Sydeny based company PQC. 
+The goal of this project is to create a smart system that can predict how popular a game will be. This will help the Sydney-based company PQC make better decisions about which games to develop, buy, or promote, ultimately improving player satisfaction and business success.
